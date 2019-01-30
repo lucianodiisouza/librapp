@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<c2eventsheet>
+    <!--All the 'name' attributes are ignored by Construct 2 - they are there for readability only.-->
+    <name>Event sheet 2</name>
+    <events>
+        <event-block sid="808148121431673">
+            <conditions>
+                <condition id="17" name="On tap object" sid="575082992911505" type="Touch">
+                    <param id="0" name="Object">quiz_btn</param>
+                </condition>
+                <condition id="-7" name="Compare instance variable" sid="210664186316960" type="quiz_btn">
+                    <param id="0" name="Instance variable">botao</param>
+                    <param id="1" name="Comparison">0</param>
+                    <param id="2" name="Value">2</param>
+                </condition>
+            </conditions>
+            <actions>
+                <action id="-2" name="Go to layout" sid="535111014957527" type="System">
+                    <param id="0" name="Layout">quiz</param>
+                </action>
+            </actions>
+        </event-block>
+        <event-block sid="696990353229043">
+            <conditions>
+                <condition id="17" name="On tap object" sid="714508667832647" type="Touch">
+                    <param id="0" name="Object">memoria_btn</param>
+                </condition>
+                <condition id="-7" name="Compare instance variable" sid="349390824627725" type="memoria_btn">
+                    <param id="0" name="Instance variable">botao</param>
+                    <param id="1" name="Comparison">0</param>
+                    <param id="2" name="Value">3</param>
+                </condition>
+            </conditions>
+            <actions>
+                <action id="-2" name="Go to layout" sid="242295634182271" type="System">
+                    <param id="0" name="Layout">memoria</param>
+                </action>
+            </actions>
+        </event-block>
+    </events>
+</c2eventsheet>
