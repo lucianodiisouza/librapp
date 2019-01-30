@@ -1,8 +1,7 @@
 # Commit inicial do projeto LibrApp
 
-# A proposta é ensinar a libras de forma descontraída e prática usando recursos multimídia presentes em tablets e smartphones.
-
-# Desenvolvido com Scirra Construct 2
+> Proposta
+* A proposta é ensinar a libras de forma descontraída e prática usando recursos multimídia presentes em tablets e smartphones.
 
 # Fase bônus:
 Uma mão no centro inferior da tela, mostra o sinal Libras,
@@ -18,16 +17,16 @@ E o usuário tem quer clicar.
 * Avançado 01: palavras inteiras
 
 #ToDo
-Organograma com menus do App
-
-# Introdução do game:
-* um vídeo rápido?
+* Organograma com menus do App
+* Introdução do game: um vídeo rápido?
 * Um dicionário Libras
 * Jogo da memória em Libras > Menu de níveis
 * Quiz de Libras > Menu de níveis
 * Dicionário Virtual de Libras - VirtuaLibras
 
-# Desenvolvedor: Luciano dii Souza
-# Contato: contato@lucianodiisouza.com.br
-# Site: www.lucianodiisouza.com.br
-# WhatsApp: +55 31 9 8780 6772
+# Informações Gerais
+* Desenvolvedor: Luciano dii Souza
+* Contato: contato@lucianodiisouza.com.br
+* Site: www.lucianodiisouza.com.br
+* WhatsApp: +55 31 9 8780 6772
+* Desenvolvido com Scirra Construct 2
