@@ -25,6 +25,7 @@ E o usuário tem quer clicar.
 * Dicionário Virtual de Libras - VirtuaLibras
 
 > Informações Gerais
+* Idealizadora: Angela Araújo Costa
 * Desenvolvedor: Luciano dii Souza
 * Contato: contato@lucianodiisouza.com.br
 * Site: www.lucianodiisouza.com.br
