@@ -1,4 +1,4 @@
-# Commit inicial do projeto LibrApp
+# Informações do Projeto: LibrApp
 
 > Proposta
 * A proposta é ensinar a libras de forma descontraída e prática usando recursos multimídia presentes em tablets e smartphones.
