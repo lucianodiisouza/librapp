@@ -10,22 +10,22 @@ As letras ou o significado vai caindo rápido em um balão.
 E o usuário tem quer clicar.
 
 # Níveis
-> Iniciante: vogais caindo
-> Intermediário: vogais e consoantes
-> Intermediário II: vogais, consoantes e números
-> Bônus round I: sílabas
-> Bônus round II: dias da semana
-> Avançado 01: palavras inteiras
+* Iniciante: vogais caindo
+* Intermediário: vogais e consoantes
+* Intermediário II: vogais, consoantes e números
+* Bônus round I: sílabas
+* Bônus round II: dias da semana
+* Avançado 01: palavras inteiras
 
 #ToDo
 Organograma com menus do App
 
 # Introdução do game:
-> um vídeo rápido?
-> Um dicionário Libras
-> Jogo da memória em Libras > Menu de níveis
-> Quiz de Libras > Menu de níveis
-> Dicionário Virtual de Libras - VirtuaLibras
+* um vídeo rápido?
+* Um dicionário Libras
+* Jogo da memória em Libras > Menu de níveis
+* Quiz de Libras > Menu de níveis
+* Dicionário Virtual de Libras - VirtuaLibras
 
 # Desenvolvedor: Luciano dii Souza
 # Contato: contato@lucianodiisouza.com.br
