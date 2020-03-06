@@ -28,6 +28,6 @@ E o usuário tem quer clicar.
 * Idealizadora: Angela Araújo Costa
 * Desenvolvedor: Luciano dii Souza
 * Contato: contato@lucianodiisouza.com.br
-* Site: www.lucianodiisouza.com.br
+* Site: www.thecodelovers.com.br
 * WhatsApp: +55 31 9 8780 6772
 * Desenvolvido com Scirra Construct 2
